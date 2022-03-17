@@ -1,4 +1,3 @@
-<style> 
 body {
   color: black;
   text-align: center;
@@ -11,4 +10,3 @@ h1 {
 p {
   font-size: 130%;
 }
-</style>
