@@ -1,0 +1,14 @@
+<style> 
+body {
+  color: black;
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  background-color: #5cb874;
+  color: #828583;
+  }
+p {
+  font-size: 130%;
+}
+</style>
